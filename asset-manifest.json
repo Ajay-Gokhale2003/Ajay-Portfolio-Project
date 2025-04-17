@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ajay_Portfolio_Project/static/css/main.a3ddb840.css",
+    "main.js": "/Ajay_Portfolio_Project/static/js/main.1cb5a507.js",
+    "index.html": "/Ajay_Portfolio_Project/index.html",
+    "main.a3ddb840.css.map": "/Ajay_Portfolio_Project/static/css/main.a3ddb840.css.map",
+    "main.1cb5a507.js.map": "/Ajay_Portfolio_Project/static/js/main.1cb5a507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ddb840.css",
+    "static/js/main.1cb5a507.js"
+  ]
+}
