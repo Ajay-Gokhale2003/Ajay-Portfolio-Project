@@ -1,0 +1,61 @@
+/* Projects.css */
+.projects {
+    padding: 100px 20px;
+    background-color:  rgb(11, 11, 78);
+    text-align: center;
+  }
+  
+  .projects h2 {
+    font-size: 36px;
+    margin-bottom: 50px; /* Increase space between title and projects */
+    color: white;
+  }
+  
+  .projects-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center; /* Vertically center the items */
+    justify-content: space-evenly; /* Evenly distribute space between the items */
+  }
+  
+  .project-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .project-card h3 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .project-card p {
+    font-size: 16px;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  .project-button {
+    background-color: rgb(9, 9, 119);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .project-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,66 @@
+.about {
+    padding: 100px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 👇 Updated Skills Section Style */
+.skills-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.skills-list li {
+    background: #f0f0f0;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    list-style: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* 👇 Education Table */
+.education-table {
+    width: 90%;
+    max-width: 1000px;
+    margin: 30px auto 0;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+
+.education-table th,
+.education-table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: center;
+}
+
+.education-table th {
+    background-color:rgb(9, 9, 112);
+    color: #fff;
+}
+
+.education-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

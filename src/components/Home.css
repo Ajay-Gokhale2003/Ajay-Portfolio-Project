@@ -1,0 +1,22 @@
+/* Home.css */
+.home {
+  background-color: rgb(11, 11, 78);
+  padding: 140px 20px 100px; /* Top padding increased to 140px */
+  text-align: center;
+}
+
+.home h1 {
+  font-size: 48px;
+  color: rgb(179, 9, 179);
+}
+
+.home p {
+  font-size: 25px;
+  color:white;
+  margin: 10px 0;
+}
+
+.home .home-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
