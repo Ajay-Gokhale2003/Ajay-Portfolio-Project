@@ -1,6 +1,6 @@
 # Ajay Portfolio Website 🎨
 
-This is a responsive personal portfolio website built using **React**.
+This is a responsive my personal portfolio website built using **React**,to  showcasing my skills and projects in front-end development.
 
 ## 🔥 Features
 
@@ -16,7 +16,7 @@ This is a responsive personal portfolio website built using **React**.
 - JavaScript
 - Git & GitHub
 ## Live Project Demo
-https://ajay-gokhale2003.github.io/Ajay-Portfolio-Project/
+Visit the live website: [Ajay-Portfolio-Project]https://ajay-gokhale2003.github.io/Ajay-Portfolio-Project/
 ## 📦 How to Run Locally
 
 ```bash
